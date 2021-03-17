@@ -35,7 +35,7 @@
       "enable_update_closed" : true,
       "update_action" : "",
       "update_msg" : "update your app for grt all favorite now",
-      "update_state" : false,
+      "update_state" : true,
       "update_title" : "update your app"
     },
     "app" : {
