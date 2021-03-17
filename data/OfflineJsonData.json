@@ -32,7 +32,7 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : true,
+      "enable_update_closed" : false,
       "update_action" : "",
       "update_msg" : "update your app for grt all favorite now",
       "update_state" : true,
