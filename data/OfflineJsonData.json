@@ -35,7 +35,7 @@
       "enable_update_closed" : true,
       "update_action" : "",
       "update_msg" : "update your app for grt all favorite now",
-      "update_state" : false,
+      "update_state" : true,
       "update_title" : "update your app"
     },
     "app" : {
@@ -48,7 +48,7 @@
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
       "title" : "Test title 0",
-      "description" : "",
+      "description" : "Test description 0",
       "written" : "Test written 0 <br>My written"
     },
     {
@@ -56,7 +56,7 @@
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
       "title" : "Test title 1",
-      "description" : "",
+      "description" : "Test description 1",
       "written" : "Test written 1"
     },
     {
@@ -64,7 +64,7 @@
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
       "title" : "Test title 2",
-      "description" : "",
+      "description" : "Test description 2",
       "written" : "Test written 2"
     },
     {
@@ -72,7 +72,7 @@
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
       "title" : "Test title 3",
-      "description" : "",
+      "description" : "Test description 3",
       "written" : "Test written 3"
     },
     {
@@ -80,7 +80,7 @@
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
       "title" : "Test title 4",
-      "description" : "",
+      "description" : "Test description 4",
       "written" : "Test written 4"
     },
     {
@@ -88,7 +88,7 @@
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
       "title" : "Test title 5",
-      "description" : "",
+      "description" : "Test description 5",
       "written" : "Test written 5"
     },
     {
@@ -96,7 +96,7 @@
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
       "title" : "Test title 6",
-      "description" : "",
+      "description" : "Test description 6",
       "written" : "Test written 6"
     },
     {
@@ -104,7 +104,7 @@
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "vip",
       "title" : "Test title 7",
-      "description" : "",
+      "description" : "Test description 7",
       "written" : "Test written 7"
     },
     {
@@ -112,7 +112,7 @@
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "vip",
       "title" : "Test title 8",
-      "description" : "",
+      "description" : "Test description 8",
       "written" : "Test written 8"
     }
   ]
