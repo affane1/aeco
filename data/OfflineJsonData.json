@@ -39,7 +39,7 @@
       "update_title" : "update your app"
     },
     "app" : {
-      "mode_off_version" : "true"
+      "mode_off_version" : ""
     }
   },
   "posts" : [
