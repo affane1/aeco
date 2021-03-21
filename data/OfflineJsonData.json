@@ -20,10 +20,10 @@
       "facebook_interstitial_id" : "",
       "facebook_native_id" : ""
     },
-    "mode_ads_banner" : "appodeal",
-    "mode_ads_interstitial" : "appodeal",
+    "mode_ads_banner" : "",
+    "mode_ads_interstitial" : "",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "appodeal",
+    "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
