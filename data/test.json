@@ -26,7 +26,7 @@
     "mode_ads_rewarded" : "admob",
     "mode_button_ads_action" : "https://www.google.fr/",
     "unity" : {
-      "unity_app_id" : "",
+      "unity_app_id" : "aeco",
       "unity_banner_id" : "",
       "unity_interstitial_id" : "",
       "unity_rewarded_id" : ""
