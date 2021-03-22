@@ -33,7 +33,7 @@
     },
     "update" : {
       "enable_update_closed" : true,
-      "update_action" : "",
+      "update_action" : "https://www.google.fr/",
       "update_msg" : "Please update the app to benefit from all the options.",
       "update_state" : true,
       "update_title" : "New version available"
