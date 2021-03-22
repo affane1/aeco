@@ -21,9 +21,9 @@
       "facebook_native_id" : ""
     },
     "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "",
-    "mode_ads_native_enabled" : false,
-    "mode_ads_rewarded" : "",
+    "mode_ads_interstitial" : "admob",
+    "mode_ads_native_enabled" : true,
+    "mode_ads_rewarded" : "admob",
     "mode_button_ads_action" : "https://www.google.fr/",
     "unity" : {
       "unity_app_id" : "",
