@@ -8,7 +8,7 @@
     "admob" : {
       "admob_banner_id" : "",
       "admob_interstitial_id" : "",
-      "admob_native_id" : "",
+      "admob_native_id" : "ca-app-pub-3940256099942544/1044960115",
       "admob_rewarded_id" : "",
       "admob_unit_id" : ""
     },
