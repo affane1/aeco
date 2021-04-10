@@ -22,10 +22,10 @@
     },
     "applovin" : {
       "applovin_banner_id" : "8bf7ab2803cdd6d4",
-      "applovin_interstitial_id" : ""
+      "applovin_interstitial_id" : "17f6b23ffac8ba7b"
     },
     "mode_ads_banner" : "applovin",
-    "mode_ads_interstitial" : "",
+    "mode_ads_interstitial" : "applovin",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
@@ -45,15 +45,5 @@
     "app" : {
       "mode_off_version" : "1"
     }
-  },
-  "posts" : [
-   {
-      "id" : 0,
-      "imageURL" : "https://dam.tuenlinea.com/wp-content/uploads/2021/02/jojo-siwa-revela-tiene-novia.jpg",
-      "state" : "free",
-      "title" : "Jojo Siwa Video Call",
-      "description" : "",
-      "written" : ""
-    }
-  ]
+  }
 }
