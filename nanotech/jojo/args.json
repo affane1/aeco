@@ -20,15 +20,15 @@
       "facebook_interstitial_id" : "",
       "facebook_native_id" : ""
     },
-    "mode_ads_banner" : "facebook",
-    "mode_ads_interstitial" : "appodeal",
+    "mode_ads_banner" : "unity",
+    "mode_ads_interstitial" : "unity",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
     "unity" : {
-      "unity_app_id" : "",
-      "unity_banner_id" : "",
-      "unity_interstitial_id" : "",
+      "unity_app_id" : "4087287",
+      "unity_banner_id" : "banner",
+      "unity_interstitial_id" : "interstitial",
       "unity_rewarded_id" : ""
     },
     "update" : {
