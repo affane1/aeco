@@ -20,7 +20,7 @@
       "facebook_interstitial_id" : "",
       "facebook_native_id" : ""
     },
-    "mode_ads_banner" : "unity",
+    "mode_ads_banner" : "facebook",
     "mode_ads_interstitial" : "",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
