@@ -43,7 +43,8 @@
       "update_title" : "New version available"
     },
     "app" : {
-      "mode_off_version" : "1"
+      "mode_off_version" : "1",
+      "privacy_link" : ""
     }
   }
 }
