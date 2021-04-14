@@ -24,12 +24,12 @@
     "mode_ads_interstitial" : "",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
-    "mode_button_ads_action" : "",
+    "mode_button_ads_action" : "https://www.google.fr/",
     "unity" : {
       "unity_app_id" : "4087287",
       "unity_banner_id" : "banner",
       "unity_interstitial_id" : "interstitial",
-      "unity_rewarded_id" : "https://www.google.fr/"
+      "unity_rewarded_id" : ""
     },
     "update" : {
       "enable_update_closed" : false,
