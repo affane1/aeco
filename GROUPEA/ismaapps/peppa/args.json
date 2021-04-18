@@ -21,8 +21,8 @@
       "facebook_native_id" : ""
     },
     "applovin" : {
-      "applovin_banner_id" : "d9b11115892f02dd",
-      "applovin_interstitial_id" : "c411eabeba36e034"
+      "applovin_banner_id" : "0292078f854b9cae",
+      "applovin_interstitial_id" : "b9f5a596d7d34a80"
     },
     "mode_ads_banner" : "applovin",
     "mode_ads_interstitial" : "",
@@ -43,8 +43,8 @@
       "update_title" : "New version available"
     },
     "app" : {
-      "mode_off_version" : "1",
-      "privacy_link" : "https://sites.google.com/view/desertapps-privacy/"
+      "mode_off_version" : "0",
+      "privacy_link" : "https://sites.google.com/view/ismaapps-privacy/"
     }
   }
 }
