@@ -21,8 +21,8 @@
       "facebook_native_id" : ""
     },
     "applovin" : {
-      "applovin_banner_id" : "d9b11115892f02dd",
-      "applovin_interstitial_id" : "c411eabeba36e034"
+      "applovin_banner_id" : "04f91dda32ff29e4",
+      "applovin_interstitial_id" : "a7618699839399f0"
     },
     "mode_ads_banner" : "applovin",
     "mode_ads_interstitial" : "",
@@ -44,7 +44,7 @@
     },
     "app" : {
       "mode_off_version" : "0",
-      "privacy_link" : "https://sites.google.com/view/desertapps-privacy/"
+      "privacy_link" : "https://sites.google.com/view/ismaapps-privacy/"
     }
   }
 }
