@@ -21,8 +21,8 @@
       "facebook_native_id" : ""
     },
     "applovin" : {
-      "applovin_banner_id" : "",
-      "applovin_interstitial_id" : ""
+      "applovin_banner_id" : "89f35d8d9609d694",
+      "applovin_interstitial_id" : "5bb12174bc70a520"
     },
     "mode_ads_banner" : "applovin",
     "mode_ads_interstitial" : "",
