@@ -17,15 +17,15 @@
     },
     "facebook" : {
       "facebook_banner_id" : "",
-      "facebook_interstitial_id" : "",
+      "facebook_interstitial_id" : "469037594309120_469038220975724",
       "facebook_native_id" : ""
     },
     "applovin" : {
       "applovin_banner_id" : "89f35d8d9609d694",
       "applovin_interstitial_id" : "5bb12174bc70a520"
     },
-    "mode_ads_banner" : "applovin",
-    "mode_ads_interstitial" : "",
+    "mode_ads_banner" : "",
+    "mode_ads_interstitial" : "facebook",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
