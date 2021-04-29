@@ -16,16 +16,16 @@
       "appodeal_app_key" : ""
     },
     "facebook" : {
-      "facebook_banner_id" : "",
-      "facebook_interstitial_id" : "",
+      "facebook_banner_id" : "167379665182762_167380458516016",
+      "facebook_interstitial_id" : "167379665182762_167380031849392",
       "facebook_native_id" : ""
     },
     "applovin" : {
       "applovin_banner_id" : "0292078f854b9cae",
       "applovin_interstitial_id" : "b9f5a596d7d34a80"
     },
-    "mode_ads_banner" : "applovin",
-    "mode_ads_interstitial" : "",
+    "mode_ads_banner" : "facebook",
+    "mode_ads_interstitial" : "facebook",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
