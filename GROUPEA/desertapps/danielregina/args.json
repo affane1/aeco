@@ -17,7 +17,7 @@
     },
     "facebook" : {
       "facebook_banner_id" : "1124284344721637_1124653094684762",
-      "facebook_interstitial_id" : "",
+      "facebook_interstitial_id" : "1124284344721637_1126113407872064",
       "facebook_native_id" : ""
     },
     "applovin" : {
@@ -25,7 +25,7 @@
       "applovin_interstitial_id" : "6dbd1664a47b5c13"
     },
     "mode_ads_banner" : "facebook",
-    "mode_ads_interstitial" : "",
+    "mode_ads_interstitial" : "facebook",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
