@@ -24,8 +24,8 @@
       "applovin_banner_id" : "0a044fb5a5ef81da",
       "applovin_interstitial_id" : "ef8488cd8135aaec"
     },
-    "mode_ads_banner" : "facebook",
-    "mode_ads_interstitial" : "facebook",
+    "mode_ads_banner" : "",
+    "mode_ads_interstitial" : "",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
@@ -36,15 +36,15 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : false,
-      "update_action" : "https://www.google.fr/",
+      "enable_update_closed" : true,
+      "update_action" : "https://play.google.com/store/apps/details?id=com.callsimulation.peppa",
       "update_msg" : "Please update the app to benefit from all the options.",
-      "update_state" : false,
+      "update_state" : true,
       "update_title" : "New version available"
     },
     "app" : {
       "mode_off_version" : "0",
-      "privacy_link" : "https://sites.google.com/view/ismaapps-privacy/"
+      "privacy_link" : ""
     }
   }
 }
