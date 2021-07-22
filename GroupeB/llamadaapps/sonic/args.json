@@ -16,7 +16,7 @@
       "appodeal_app_key" : ""
     },
     "facebook" : {
-      "facebook_banner_id" : "",
+      "facebook_banner_id" : "972510206654508_972511086654420",
       "facebook_interstitial_id" : "",
       "facebook_native_id" : ""
     },
@@ -24,7 +24,7 @@
       "applovin_banner_id" : "",
       "applovin_interstitial_id" : ""
     },
-    "mode_ads_banner" : "",
+    "mode_ads_banner" : "facebook",
     "mode_ads_interstitial" : "",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
