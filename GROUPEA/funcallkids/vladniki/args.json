@@ -6,11 +6,11 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-9982533838930781/3223359011",
-      "admob_interstitial_id" : "ca-app-pub-9982533838930781/5657950662",
+      "admob_banner_id" : "",
+      "admob_interstitial_id" : "",
       "admob_native_id" : "",
       "admob_rewarded_id" : "",
-      "admob_unit_id" : "ca-app-pub-9982533838930781~5849522351"
+      "admob_unit_id" : ""
     },
     "appodeal" : {
       "appodeal_app_key" : ""
@@ -24,8 +24,8 @@
       "applovin_banner_id" : "",
       "applovin_interstitial_id" : ""
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
+    "mode_ads_banner" : "",
+    "mode_ads_interstitial" : "",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
