@@ -20,15 +20,15 @@
       "facebook_interstitial_id" : "3813584078697496_3887349011321002",
       "facebook_native_id" : ""
     },
-    "mode_ads_banner" : "",
-    "mode_ads_interstitial" : "",
+    "mode_ads_banner" : "unity",
+    "mode_ads_interstitial" : "unity",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
     "unity" : {
-      "unity_app_id" : "4087287",
-      "unity_banner_id" : "banner",
-      "unity_interstitial_id" : "interstitial",
+      "unity_app_id" : "4251987",
+      "unity_banner_id" : "Banner_Android",
+      "unity_interstitial_id" : "Interstitial_Android",
       "unity_rewarded_id" : ""
     },
     "update" : {
