@@ -37,7 +37,7 @@
     },
     "update" : {
       "enable_update_closed" : true,
-      "update_action" : "https://play.google.com/store/apps/details?id=com.funcall.ryantoys",
+      "update_action" : "https://play.google.com/store/apps/details?id=com.callprank.chadvy",
       "update_msg" : "Please update the app to benefit from all the options.",
       "update_state" : true,
       "update_title" : "New version available"
