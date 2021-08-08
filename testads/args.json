@@ -26,7 +26,7 @@
     },
     "mode_ads_banner" : "admob",
     "mode_ads_interstitial" : "admob",
-    "mode_ads_native_enabled" : true,
+    "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
     "unity" : {
