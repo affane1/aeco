@@ -45,7 +45,7 @@
     "app" : {
       "mode_off_version" : "0",
       "privacy_link" : "https://sites.google.com/view/desertapps-privacy/",
-      "CPR_Legal" : true
+      "CPR_Legal" : false
     }
   }
 }
