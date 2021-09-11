@@ -24,15 +24,15 @@
       "applovin_banner_id" : "",
       "applovin_interstitial_id" : ""
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
+    "mode_ads_banner" : "unity",
+    "mode_ads_interstitial" : "unity",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
     "unity" : {
-      "unity_app_id" : "",
-      "unity_banner_id" : "",
-      "unity_interstitial_id" : "",
+      "unity_app_id" : "4305033",
+      "unity_banner_id" : "Banner_Android",
+      "unity_interstitial_id" : "Interstitial_Android",
       "unity_rewarded_id" : ""
     },
     "update" : {
