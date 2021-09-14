@@ -1,9 +1,9 @@
 {
   "config" : {
     "adcolony" : {
-      "adcolony_app_id" : "",
+      "adcolony_app_id" : "app3976de26e92044a29a",
       "adcolony_interstitial_id" : "vzf3fcdf889e514cc4bb",
-      "adcolony_rewarded_id" : "app3976de26e92044a29a"
+      "adcolony_rewarded_id" : ""
     },
     "admob" : {
       "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
