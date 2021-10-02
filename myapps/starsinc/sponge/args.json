@@ -6,11 +6,11 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-9982533838930781/8823116157",
-      "admob_interstitial_id" : "ca-app-pub-9982533838930781/7315976258",
+      "admob_banner_id" : "ca-app-pub-3504050342873801/9763135020",
+      "admob_interstitial_id" : "ca-app-pub-3504050342873801/1372659051",
       "admob_native_id" : "",
       "admob_rewarded_id" : "",
-      "admob_unit_id" : "ca-app-pub-9982533838930781~5075442834"
+      "admob_unit_id" : ""
     },
     "appodeal" : {
       "appodeal_app_key" : ""
@@ -21,29 +21,31 @@
       "facebook_native_id" : ""
     },
     "applovin" : {
-      "applovin_banner_id" : "8bf7ab2803cdd6d4",
-      "applovin_interstitial_id" : "17f6b23ffac8ba7b"
+      "applovin_banner_id" : "",
+      "applovin_interstitial_id" : ""
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
+    "unity" : {
+      "unity_app_id" : "",
+      "unity_banner_id" : "Banner_Android",
+      "unity_interstitial_id" : "Interstitial_Android",
+      "unity_rewarded_id" : ""
+    },
+    "mode_ads_banner" : "",
+    "mode_ads_interstitial" : "",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
-    "unity" : {
-      "unity_app_id" : "",
-      "unity_banner_id" : "",
-      "unity_interstitial_id" : "",
-      "unity_rewarded_id" : ""
-    },
     "update" : {
       "enable_update_closed" : false,
       "update_action" : "https://www.google.fr/",
-      "update_msg" : "Please update the app to benefit from all the options.",
+      "update_msg" : "Please update the app to benefit from all the new features.",
       "update_state" : false,
       "update_title" : "New version available"
     },
     "app" : {
-      "mode_off_version" : "1"
+      "mode_off_version" : "0",
+      "privacy_link" : "",
+      "CPR_Legal" : true
     }
   }
 }
