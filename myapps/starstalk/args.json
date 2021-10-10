@@ -6,8 +6,8 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-3504050342873801/9735214867",
-      "admob_interstitial_id" : "ca-app-pub-3504050342873801/6917479837",
+      "admob_banner_id" : "ca-app-pub-3504050342873801/4326677764",
+      "admob_interstitial_id" : "ca-app-pub-3504050342873801/5042005397",
       "admob_native_id" : "",
       "admob_rewarded_id" : "",
       "admob_unit_id" : ""
@@ -30,8 +30,8 @@
       "unity_interstitial_id" : "Interstitial_Android",
       "unity_rewarded_id" : ""
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
+    "mode_ads_banner" : "",
+    "mode_ads_interstitial" : "",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
