@@ -1,14 +1,14 @@
 {
   "config" : {
     "adcolony" : {
-      "adcolony_app_id" : "app3976de26e92044a29a",
-      "adcolony_interstitial_id" : "vzf3fcdf889e514cc4bb",
+      "adcolony_app_id" : "",
+      "adcolony_interstitial_id" : "",
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_banner_id" : "",
+      "admob_interstitial_id" : "",
+      "admob_native_id" : "",
       "admob_rewarded_id" : "",
       "admob_unit_id" : ""
     },
@@ -22,10 +22,10 @@
     },
     "applovin" : {
       "applovin_banner_id" : "",
-      "applovin_interstitial_id" : "731e3a65b5a8f877"
+      "applovin_interstitial_id" : ""
     },
     "unity" : {
-      "unity_app_id" : "4305033",
+      "unity_app_id" : "",
       "unity_banner_id" : "Banner_Android",
       "unity_interstitial_id" : "Interstitial_Android",
       "unity_rewarded_id" : ""
