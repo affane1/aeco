@@ -44,8 +44,8 @@
     },
     "app" : {
       "mode_off_version" : "0",
-      "privacy_link" : "https://sites.google.com/view/alba-dev-privacy",
-      "CPR_Legal" : false
+      "privacy_link" : "",
+      "CPR_Legal" : true
     }
   }
 }
