@@ -21,8 +21,8 @@
       "facebook_native_id" : ""
     },
     "applovin" : {
-      "applovin_banner_id" : "718783ba8ab71d63",
-      "applovin_interstitial_id" : "0aed3988e8924825"
+      "applovin_banner_id" : "",
+      "applovin_interstitial_id" : ""
     },
     "unity" : {
       "unity_app_id" : "",
