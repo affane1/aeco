@@ -26,8 +26,8 @@
     },
     "unity" : {
       "unity_app_id" : "",
-      "unity_banner_id" : "",
-      "unity_interstitial_id" : "",
+      "unity_banner_id" : "Banner_Android",
+      "unity_interstitial_id" : "Interstitial_Android",
       "unity_rewarded_id" : ""
     },
     "mode_ads_banner" : "applovin",
