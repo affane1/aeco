@@ -22,7 +22,8 @@
     },
     "applovin" : {
       "applovin_banner_id" : "34eb2f22eb987093",
-      "applovin_interstitial_id" : "731e3a65b5a8f877"
+      "applovin_interstitial_id" : "731e3a65b5a8f877",
+      "applovin_native_id" : "7f557cc7ad0d74d4"
     },
     "unity" : {
       "unity_app_id" : "1234567",
