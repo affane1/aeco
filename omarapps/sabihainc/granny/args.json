@@ -21,17 +21,18 @@
       "facebook_native_id" : ""
     },
     "applovin" : {
-      "applovin_banner_id" : "",
-      "applovin_interstitial_id" : ""
+      "applovin_banner_id" : "26b56beb03e9f5ed",
+      "applovin_interstitial_id" : "73838b2a3489cbe0",
+      "applovin_native_id" : ""
     },
     "unity" : {
-      "unity_app_id" : "",
+      "unity_app_id" : "1234567",
       "unity_banner_id" : "Banner_Android",
       "unity_interstitial_id" : "Interstitial_Android",
       "unity_rewarded_id" : ""
     },
-    "mode_ads_banner" : "",
-    "mode_ads_interstitial" : "",
+    "mode_ads_banner" : "applovin",
+    "mode_ads_interstitial" : "applovin",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
@@ -45,7 +46,7 @@
     "app" : {
       "mode_off_version" : "0",
       "privacy_link" : "",
-      "CPR_Legal" : true
+      "CPR_Legal" : false
     }
   }
 }
