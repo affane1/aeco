@@ -22,12 +22,13 @@
     },
     "applovin" : {
       "applovin_banner_id" : "fc98a85e442c3def",
-      "applovin_interstitial_id" : "960bef484789ef09"
+      "applovin_interstitial_id" : "960bef484789ef09",
+      "applovin_native_id" : ""
     },
     "unity" : {
-      "unity_app_id" : "",
-      "unity_banner_id" : "",
-      "unity_interstitial_id" : "",
+      "unity_app_id" : "1234567",
+      "unity_banner_id" : "Banner_Android",
+      "unity_interstitial_id" : "Interstitial_Android",
       "unity_rewarded_id" : ""
     },
     "mode_ads_banner" : "applovin",
