@@ -21,8 +21,8 @@
       "facebook_native_id" : ""
     },
     "applovin" : {
-      "applovin_banner_id" : "",
-      "applovin_interstitial_id" : "",
+      "applovin_banner_id" : "76ee8a4c7fbdcdb8",
+      "applovin_interstitial_id" : "42f2acd8518fae28",
       "applovin_native_id" : ""
     },
     "unity" : {
@@ -46,7 +46,7 @@
     "app" : {
       "mode_off_version" : "0",
       "privacy_link" : "",
-      "CPR_Legal" : true
+      "CPR_Legal" : false
     }
   }
 }
