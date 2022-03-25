@@ -38,7 +38,7 @@
     "mode_button_ads_action" : "",
     "update" : {
       "enable_update_closed" : true,
-      "update_action" : "https://play.google.com/store/apps/details?id=com.fakevideocallprank.jasonfriday",
+      "update_action" : "https://play.google.com/store/apps/details?id=com.granny.grannycalls",
       "update_msg" : "Please update the app to benefit from all the new features.",
       "update_state" : true,
       "update_title" : "New version available"
