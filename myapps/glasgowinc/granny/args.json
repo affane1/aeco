@@ -37,10 +37,10 @@
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
     "update" : {
-      "enable_update_closed" : false,
-      "update_action" : "https://www.google.fr/",
+      "enable_update_closed" : true,
+      "update_action" : "https://play.google.com/store/apps/details?id=com.fakevideocallprank.jasonfriday",
       "update_msg" : "Please update the app to benefit from all the new features.",
-      "update_state" : false,
+      "update_state" : true,
       "update_title" : "New version available"
     },
     "app" : {
