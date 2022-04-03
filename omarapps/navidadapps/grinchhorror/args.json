@@ -23,7 +23,7 @@
     "applovin" : {
       "applovin_banner_id" : "fc98a85e442c3def",
       "applovin_interstitial_id" : "960bef484789ef09",
-      "applovin_native_id" : ""
+      "applovin_native_id" : "0909c21a6a26614f"
     },
     "unity" : {
       "unity_app_id" : "1234567",
@@ -33,7 +33,7 @@
     },
     "mode_ads_banner" : "applovin",
     "mode_ads_interstitial" : "applovin",
-    "mode_ads_native_enabled" : false,
+    "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
     "update" : {
