@@ -22,7 +22,10 @@
     },
     "applovin" : {
       "applovin_banner_id" : "34eb2f22eb987093",
-      "applovin_interstitial_id" : "731e3a65b5a8f877",
+      "applovin_interstitial_id1" : "731e3a65b5a8f877",
+      "applovin_interstitial_id2" : "731e3a65b5a8f877",
+      "applovin_interstitial_id3" : "731e3a65b5a8f877",
+      "applovin_interstitial_id4" : "",
       "applovin_native_id" : "7f557cc7ad0d74d4"
     },
     "unity" : {
