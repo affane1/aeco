@@ -1,0 +1,56 @@
+{
+  "config" : {
+    "adcolony" : {
+      "adcolony_app_id" : "",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
+    },
+    "admob" : {
+      "admob_banner_id" : "",
+      "admob_interstitial_id" : "",
+      "admob_native_id" : "",
+      "admob_rewarded_id" : "",
+      "admob_unit_id" : ""
+    },
+    "appodeal" : {
+      "appodeal_app_key" : ""
+    },
+    "facebook" : {
+      "facebook_banner_id" : "",
+      "facebook_interstitial_id" : "",
+      "facebook_native_id" : ""
+    },
+    "applovin" : {
+      "applovin_banner_id" : "34eb2f22eb987093",
+      "applovin_interstitial_id1" : "731e3a65b5a8f877",
+      "applovin_interstitial_id2" : "a0c8cd3a9e687845",
+      "applovin_interstitial_id3" : "a0c8cd3a9e687845",
+      "applovin_interstitial_id4" : "731e3a65b5a8f877",
+      "applovin_native_id1" : "7f557cc7ad0d74d4",
+      "applovin_native_id2" : "7f557cc7ad0d74d4"
+    },
+    "unity" : {
+      "unity_app_id" : "1234567",
+      "unity_banner_id" : "Banner_Android",
+      "unity_interstitial_id" : "Interstitial_Android",
+      "unity_rewarded_id" : ""
+    },
+    "mode_ads_banner" : "applovin",
+    "mode_ads_interstitial" : "applovin",
+    "mode_ads_native_enabled" : true,
+    "mode_ads_rewarded" : "",
+    "mode_button_ads_action" : "",
+    "update" : {
+      "enable_update_closed" : false,
+      "update_action" : "https://www.google.fr/",
+      "update_msg" : "Please update the app to benefit from all the new features.",
+      "update_state" : false,
+      "update_title" : "New version available"
+    },
+    "app" : {
+      "mode_off_version" : "0",
+      "privacy_link" : "",
+      "CPR_Legal" : false
+    }
+  }
+}
