@@ -49,8 +49,8 @@
     },
     "app" : {
       "mode_off_version" : "0",
-      "privacy_link" : "",
-      "CPR_Legal" : false
+      "privacy_link" : "https://www.google.com/",
+      "CPR_Legal" : true
     }
   }
 }
