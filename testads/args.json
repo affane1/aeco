@@ -30,9 +30,9 @@
       "applovin_native_id2" : "7f557cc7ad0d74d4"
     },
     "unity" : {
-      "unity_app_id" : "1234567",
-      "unity_banner_id" : "Banner_Android",
-      "unity_interstitial_id" : "Interstitial_Android",
+      "unity_app_id" : "",
+      "unity_banner_id" : "",
+      "unity_interstitial_id" : "",
       "unity_rewarded_id" : ""
     },
     "mode_ads_banner" : "applovin",
@@ -50,7 +50,7 @@
     "app" : {
       "mode_off_version" : "0",
       "privacy_link" : "",
-      "CPR_Legal" : false
+      "CPR_Legal" : true
     }
   }
 }
