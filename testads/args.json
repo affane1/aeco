@@ -23,10 +23,10 @@
     "applovin" : {
       "applovin_banner_id" : "34eb2f22eb987093",
       "applovin_interstitial_id1" : "731e3a65b5a8f877",
-      "applovin_interstitial_id2" : "a0c8cd3a9e687845",
+      "applovin_interstitial_id2" : "",
       "applovin_interstitial_id3" : "a0c8cd3a9e687845",
       "applovin_interstitial_id4" : "731e3a65b5a8f877",
-      "applovin_native_id1" : "7f557cc7ad0d74d4",
+      "applovin_native_id1" : "",
       "applovin_native_id2" : "7f557cc7ad0d74d4"
     },
     "unity" : {
