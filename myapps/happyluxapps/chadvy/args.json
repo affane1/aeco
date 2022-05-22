@@ -21,13 +21,13 @@
       "facebook_native_id" : ""
     },
     "applovin" : {
-      "applovin_banner_id" : "34eb2f22eb987093",
+      "applovin_banner_id" : "dd6d0dcc9c7a5dbc",
       "applovin_interstitial_id1" : "",
       "applovin_interstitial_id2" : "",
-      "applovin_interstitial_id3" : "a0c8cd3a9e687845",
-      "applovin_interstitial_id4" : "731e3a65b5a8f877",
-      "applovin_native_id1" : "7f557cc7ad0d74d4",
-      "applovin_native_id2" : "ed67cd8ef96e92c2"
+      "applovin_interstitial_id3" : "216636bc885cea1c",
+      "applovin_interstitial_id4" : "",
+      "applovin_native_id1" : "",
+      "applovin_native_id2" : ""
     },
     "unity" : {
       "unity_app_id" : "",
@@ -37,7 +37,7 @@
     },
     "mode_ads_banner" : "applovin",
     "mode_ads_interstitial" : "applovin",
-    "mode_ads_native_enabled" : true,
+    "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
     "update" : {
@@ -49,7 +49,7 @@
     },
     "app" : {
       "mode_off_version" : "0",
-      "privacy_link" : "",
+      "privacy_link" : "https://sites.google.com/view/happylux-apps-privacy-policy",
       "CPR_Legal" : false
     }
   }
