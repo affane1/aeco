@@ -22,8 +22,8 @@
     },
     "applovin" : {
       "applovin_banner_id" : "de4e4e6e1bd87d31",
-      "applovin_interstitial_id1" : "",
-      "applovin_interstitial_id2" : "",
+      "applovin_interstitial_id1" : "8462e119db103655",
+      "applovin_interstitial_id2" : "8462e119db103655",
       "applovin_interstitial_id3" : "8462e119db103655",
       "applovin_interstitial_id4" : "8462e119db103655",
       "applovin_native_id1" : "",
@@ -49,7 +49,7 @@
     },
     "app" : {
       "mode_off_version" : "0",
-      "privacy_link" : "",
+      "privacy_link" : "https://sites.google.com/view/veras-studio-policies",
       "CPR_Legal" : false
     }
   }
