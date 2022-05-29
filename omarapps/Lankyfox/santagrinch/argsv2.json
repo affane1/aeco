@@ -21,9 +21,13 @@
       "facebook_native_id" : ""
     },
     "applovin" : {
-      "applovin_banner_id" : "86d10b504c9aa84e",
-      "applovin_interstitial_id" : "2c9720c87f3f7daf",
-      "applovin_native_id" : "e4bcce98d562c306"
+      "applovin_banner_id" : "",
+      "applovin_interstitial_id1" : "",
+      "applovin_interstitial_id2" : "",
+      "applovin_interstitial_id3" : "",
+      "applovin_interstitial_id4" : "",
+      "applovin_native_id1" : "",
+      "applovin_native_id2" : ""
     },
     "unity" : {
       "unity_app_id" : "1234567",
@@ -46,7 +50,7 @@
     "app" : {
       "mode_off_version" : "0",
       "privacy_link" : "",
-      "CPR_Legal" : false
+      "CPR_Legal" : true
     }
   }
 }
