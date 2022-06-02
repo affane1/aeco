@@ -22,10 +22,10 @@
     },
     "applovin" : {
       "applovin_banner_id" : "2d01faca43c99331",
-      "applovin_interstitial_id1" : "",
-      "applovin_interstitial_id2" : "",
+      "applovin_interstitial_id1" : "38c6c7c20e77eae8",
+      "applovin_interstitial_id2" : "38c6c7c20e77eae8",
       "applovin_interstitial_id3" : "38c6c7c20e77eae8",
-      "applovin_interstitial_id4" : "",
+      "applovin_interstitial_id4" : "38c6c7c20e77eae8",
       "applovin_native_id1" : "",
       "applovin_native_id2" : ""
     },
