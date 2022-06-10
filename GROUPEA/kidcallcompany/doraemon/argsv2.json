@@ -22,12 +22,12 @@
     },
     "applovin" : {
       "applovin_banner_id" : "c2a0e4a5c239bc00",
-      "applovin_interstitial_id1" : "",
-      "applovin_interstitial_id2" : "",
+      "applovin_interstitial_id1" : "f61cc1f2c1859f01",
+      "applovin_interstitial_id2" : "d0aa30857ff10af2",
       "applovin_interstitial_id3" : "c73d936caf6b8d02",
-      "applovin_interstitial_id4" : "",
-      "applovin_native_id1" : "",
-      "applovin_native_id2" : ""
+      "applovin_interstitial_id4" : "3b9939693e0d0825",
+      "applovin_native_id1" : "97a3e2259ede2514",
+      "applovin_native_id2" : "a8dfd6386e967cbe"
     },
     "unity" : {
       "unity_app_id" : "",
@@ -37,7 +37,7 @@
     },
     "mode_ads_banner" : "applovin",
     "mode_ads_interstitial" : "applovin",
-    "mode_ads_native_enabled" : false,
+    "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
     "update" : {
