@@ -21,11 +21,11 @@
       "facebook_native_id" : ""
     },
     "applovin" : {
-      "applovin_banner_id" : "",
-      "applovin_interstitial_id1" : "",
-      "applovin_interstitial_id2" : "",
-      "applovin_interstitial_id3" : "",
-      "applovin_interstitial_id4" : "",
+      "applovin_banner_id" : "499e1d0440e4cd24",
+      "applovin_interstitial_id1" : "030733cf66931a84",
+      "applovin_interstitial_id2" : "030733cf66931a84",
+      "applovin_interstitial_id3" : "030733cf66931a84",
+      "applovin_interstitial_id4" : "030733cf66931a84",
       "applovin_native_id1" : "",
       "applovin_native_id2" : ""
     },
@@ -50,7 +50,7 @@
     "app" : {
       "mode_off_version" : "0",
       "privacy_link" : "",
-      "CPR_Legal" : true
+      "CPR_Legal" : false
     }
   }
 }
