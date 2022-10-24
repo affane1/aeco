@@ -7,7 +7,7 @@
     },
     "admob" : {
       "admob_banner_id" : "",
-      "admob_interstitial_id" : "",
+      "admob_interstitial_id" : "ca-app-pub-3504050342873801/7350594253",
       "admob_native_id" : "",
       "admob_rewarded_id" : "",
       "admob_unit_id" : ""
@@ -32,7 +32,7 @@
       "unity_rewarded_id" : ""
     },
     "mode_ads_banner" : "applovin",
-    "mode_ads_interstitial" : "applovin",
+    "mode_ads_interstitial" : "admob",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
