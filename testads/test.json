@@ -1,0 +1,40 @@
+{
+    "error": false,
+    "amount": 10,
+    "jokes": [
+        {
+            "category": "Pun",
+            "type": "twopart",
+            "setup": "Which is faster, Hot or cold?",
+            "delivery": "Hot, because you can catch a cold",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "safe": true,
+            "id": 279,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "twopart",
+            "setup": "I just saw my wife trip over and drop a basket full of ironed clothes.",
+            "delivery": "I watched it all unfold.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "safe": true,
+            "id": 281,
+            "lang": "en"
+        }
+    ]
+}
