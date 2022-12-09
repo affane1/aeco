@@ -2,9 +2,9 @@
   "GuideData": {
     "AdsController": 
       {
-        "BannerAd": "unity",
-		"InterstitialAd": "unity",
-        "NativeAd": "max",
+        "BannerAd": "",
+		"InterstitialAd": "",
+        "NativeAd": "",
 		
 		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
@@ -20,7 +20,7 @@
 		"unity_banner": "banner",
 		"unity_interstitial": "video",
 
-        "ImageBanner": false,
+        "ImageBanner": true,
         "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
         "ImageBannerURL" : "https://www.google.com"
 		
@@ -33,11 +33,11 @@
         "color": "#000000",
         "text_size": "22",
         "isLink": true,
-		"link_title": "Get Coins",
+		"link_title": "Download",
 		"setLink": "https://www.google.com",
-        "image_link": "https://usercontent2.hubstatic.com/6961601.jpg",
+        "image_link": "",
         "text": "sdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasd",
-        "isNative": true,
+        "isNative": false,
 		"background": "#F5F5F5"
       },
       {
