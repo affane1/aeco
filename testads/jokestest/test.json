@@ -1,40 +1,111 @@
 {
-    "error": false,
-    "amount": 10,
-    "jokes": [
-        {
-            "category": "Pun",
-            "type": "twopart",
-            "setup": "Which is faster, Hot or cold?",
-            "delivery": "Hot, because you can catch a cold",
-            "flags": {
-                "nsfw": false,
-                "religious": false,
-                "political": false,
-                "racist": false,
-                "sexist": false,
-                "explicit": false
-            },
-            "safe": true,
-            "id": 279,
-            "lang": "en"
-        },
-        {
-            "category": "Pun",
-            "type": "twopart",
-            "setup": "I just saw my wife trip over and drop a basket full of ironed clothes.",
-            "delivery": "I watched it all unfold.",
-            "flags": {
-                "nsfw": false,
-                "religious": false,
-                "political": false,
-                "racist": false,
-                "sexist": false,
-                "explicit": false
-            },
-            "safe": true,
-            "id": 281,
-            "lang": "en"
-        }
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "unity",
+		"InterstitialAd": "unity",
+        "NativeAd": "max",
+		
+		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+		"maxBanner": "6db1491f2e21970c",
+		"maxInterstitial": "812b82d9e0c7cb7f",
+		"maxNative": "64ea2f2ef41edb34",
+		
+		"ironsource_appKey": "1011dee21",
+		
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+      {
+        "title": "Dark Meadow: The Pact",
+        "image": "https://usercontent2.hubstatic.com/6961601.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "Get Coins",
+		"setLink": "https://www.google.com",
+        "image_link": "https://www.google.com",
+        "text": "sdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasd",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "The Old 2",
+        "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "Call of Cthulhu: Wasted Land ",
+        "image": "https://usercontent1.hubstatic.com/6961608.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "Dead Space Android",
+        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "Bloody Mary",
+        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "Twisted Lands: Shadow Town",
+        "image": "https://usercontent1.hubstatic.com/6961620.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": false,
+		"background": "#00FF00"
+      }
     ]
+
+  }
 }
