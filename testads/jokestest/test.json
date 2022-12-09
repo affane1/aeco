@@ -30,14 +30,14 @@
       {
         "title": "Dark Meadow: The Pact",
         "image": "https://usercontent2.hubstatic.com/6961601.jpg",
-        "color": "#000000",
+        "color": "#00FF00",
         "text_size": "25",
         "isLink": true,
 		"link_title": "Get Coins",
 		"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
         "text": "sdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasdsdsdasdsdasd ssa dadas dasd",
-        "isNative": false,
+        "isNative": true,
 		"background": "#00FF00"
       },
       {
