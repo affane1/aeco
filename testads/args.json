@@ -1,24 +1,11 @@
 {
   "config" : {
-    "adcolony" : {
-      "adcolony_app_id" : "",
-      "adcolony_interstitial_id" : "",
-      "adcolony_rewarded_id" : ""
-    },
     "admob" : {
       "admob_banner_id" : "",
       "admob_interstitial_id" : "",
       "admob_native_id" : "",
       "admob_rewarded_id" : "",
       "admob_unit_id" : ""
-    },
-    "appodeal" : {
-      "appodeal_app_key" : ""
-    },
-    "facebook" : {
-      "facebook_banner_id" : "",
-      "facebook_interstitial_id" : "",
-      "facebook_native_id" : ""
     },
     "applovin" : {
       "applovin_banner_id" : "34eb2f22eb987093",
