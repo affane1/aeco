@@ -22,6 +22,10 @@
       "unity_interstitial_id" : "",
       "unity_rewarded_id" : ""
     },
+    "cpa" : {
+      "banner_img" : "test IMG",
+      "banner_url" : "test URL"
+    },
     "mode_ads_banner" : "applovin",
     "mode_ads_interstitial" : "applovin",
     "mode_ads_native_enabled" : false,
