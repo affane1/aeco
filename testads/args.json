@@ -23,13 +23,13 @@
       "unity_rewarded_id" : ""
     },
     "cpa" : {
-      "active" : true,
+      "active" : false,
       "banner_img" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
       "banner_url" : "test URL"
     },
     "mode_ads_banner" : "applovin",
     "mode_ads_interstitial" : "applovin",
-    "mode_ads_native_enabled" : false,
+    "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
     "update" : {
