@@ -24,7 +24,7 @@
     },
     "cpa" : {
       "active" : true,
-      "banner_img" : "test IMG",
+      "banner_img" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
       "banner_url" : "test URL"
     },
     "mode_ads_banner" : "applovin",
