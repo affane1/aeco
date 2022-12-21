@@ -23,6 +23,7 @@
       "unity_rewarded_id" : ""
     },
     "cpa" : {
+      "active" : true,
       "banner_img" : "test IMG",
       "banner_url" : "test URL"
     },
