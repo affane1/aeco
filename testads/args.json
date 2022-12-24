@@ -29,14 +29,14 @@
     },
     "mode_ads_banner" : "applovin",
     "mode_ads_interstitial" : "applovin",
-    "mode_ads_native_enabled" : false,
+    "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
     "update" : {
       "enable_update_closed" : false,
       "update_action" : "https://www.google.fr/",
       "update_msg" : "Please update the app to benefit from all the new features.",
-      "update_state" : true,
+      "update_state" : false,
       "update_title" : "New version available"
     },
     "app" : {
