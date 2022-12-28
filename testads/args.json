@@ -3,7 +3,7 @@
     "admob" : {
       "admob_banner_id" : "",
       "admob_interstitial_id" : "",
-      "admob_native_id" : "",
+      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
       "admob_rewarded_id" : "",
       "admob_unit_id" : ""
     },
@@ -27,7 +27,7 @@
       "banner_img" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
       "banner_url" : "test URL"
     },
-    "mode_ads_banner" : "applovin",
+    "mode_ads_banner" : "admob",
     "mode_ads_interstitial" : "applovin",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "",
