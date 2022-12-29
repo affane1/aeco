@@ -1,11 +1,11 @@
 {
   "config" : {
     "admob" : {
-      "admob_banner_id" : "",
+      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_id1" : "",
       "admob_interstitial_id2" : "",
-      "admob_interstitial_id3" : "",
-      "admob_interstitial_id4" : "",
+      "admob_interstitial_id3" : "ca-app-pub-3940256099942544/1033173712",
+      "admob_interstitial_id4" : "ca-app-pub-3940256099942544/1033173712",
       "admob_native_id1" : "ca-app-pub-3940256099942544/2247696110",
       "admob_native_id2" : "ca-app-pub-3940256099942544/2247696110"
     },
@@ -24,7 +24,7 @@
       "banner_url_redirect" : "test URL"
     },
     "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "applovin",
+    "mode_ads_interstitial" : "admob",
     "mode_ads_native_enabled" : false,
     "update" : {
       "enable_update_closed" : false,
