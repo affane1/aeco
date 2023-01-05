@@ -3,7 +3,7 @@
     "admob" : {
       "admob_appopen_id" : "ca-app-pub-3940256099942544/3419835294",
       "admob_banner_id" : "",
-      "admob_game_banner_id" : "",
+      "admob_game_banner_id" : "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_id1" : "",
       "admob_interstitial_id2" : "",
       "admob_interstitial_id3" : "ca-app-pub-3940256099942544/1033173712",
@@ -25,8 +25,8 @@
       "banner_img_url" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
       "banner_url_redirect" : "test URL"
     },
-    "mode_ads_banner1" : "admob",
-    "mode_ads_banner2" : "admob",
+    "mode_ads_banner1" : "applovin",
+    "mode_ads_banner2" : "applovin",
     "mode_ads_interstitial1" : "admob",
     "mode_ads_interstitial2" : "admob",
     "mode_ads_interstitial3" : "admob",
@@ -43,7 +43,7 @@
     },
     "app" : {
       "privacy_link" : "",
-      "CPR_Legal" : true
+      "CPR_Legal" : false
     }
   }
 }
