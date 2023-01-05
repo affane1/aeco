@@ -3,6 +3,7 @@
     "admob" : {
       "admob_appopen_id" : "ca-app-pub-3940256099942544/3419835294",
       "admob_banner_id" : "",
+      "admob_game_banner_id" : "",
       "admob_interstitial_id1" : "",
       "admob_interstitial_id2" : "",
       "admob_interstitial_id3" : "ca-app-pub-3940256099942544/1033173712",
@@ -32,6 +33,7 @@
     "mode_ads_interstitial4" : "admob",
     "mode_ads_native_enabled1" : true,
     "mode_ads_native_enabled2" : true,
+    "game_banner_active" : true,
     "update" : {
       "update_state" : false,
       "update_closeable" : false,
