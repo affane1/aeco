@@ -36,12 +36,12 @@
       "enable_update_closed" : false,
       "update_action" : "https://www.google.fr/",
       "update_msg" : "Please update the app to benefit from all the new features.",
-      "update_state" : false,
+      "update_state" : true,
       "update_title" : "New version available"
     },
     "app" : {
       "privacy_link" : "",
-      "CPR_Legal" : false
+      "CPR_Legal" : true
     }
   }
 }
