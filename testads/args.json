@@ -2,7 +2,7 @@
   "config" : {
     "admob" : {
       "admob_appopen_id" : "ca-app-pub-3940256099942544/3419835294",
-      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+      "admob_banner_id" : "",
       "admob_interstitial_id1" : "",
       "admob_interstitial_id2" : "",
       "admob_interstitial_id3" : "ca-app-pub-3940256099942544/1033173712",
@@ -33,8 +33,8 @@
     "mode_ads_native_enabled1" : true,
     "mode_ads_native_enabled2" : true,
     "update" : {
-      "update_state" : true,
-      "update_closeable" : true,
+      "update_state" : false,
+      "update_closeable" : false,
       "update_title" : "New version available",
       "update_msg" : "Please update the app to benefit from all the new features.",
       "update_action" : "https://www.google.fr/"
