@@ -42,7 +42,7 @@
       "update_action" : "https://www.google.fr/"
     },
     "app" : {
-      "privacy_link" : "",
+      "privacy_link" : "https://sites.google.com/view/stars-talk-privacy-policy",
       "CPR_Legal" : false
     }
   }
