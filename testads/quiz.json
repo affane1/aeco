@@ -9,6 +9,6 @@
 		"applovin_native": "891b6ea83fc7e4a3"
 	},
 	"mode_interstitial": "admob",
-	"mode_native": "admob"
+	"mode_native": "applovin"
 }
 }
