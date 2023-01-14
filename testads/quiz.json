@@ -8,7 +8,7 @@
 		"applovin_interstitial": "deaf97749e784c5e",
 		"applovin_native": "062d2fedadb00e98"
 	},
-	"mode_interstitial": "applovin",
-	"mode_native": "applovin"
+	"mode_interstitial": "admob",
+	"mode_native": "admob"
 }
 }
