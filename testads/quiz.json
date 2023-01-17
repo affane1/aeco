@@ -5,10 +5,10 @@
 		"admob_native": ""
 	},
 	"applovin": {
-		"applovin_interstitial": "",
-		"applovin_native": ""
+		"applovin_interstitial": "deaf97749e784c5e",
+		"applovin_native": "062d2fedadb00e98"
 	},
-	"mode_interstitial": "",
-	"mode_native": ""
+	"mode_interstitial": "applovin",
+	"mode_native": "applovin"
 }
 }
