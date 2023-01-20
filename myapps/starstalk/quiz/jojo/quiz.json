@@ -1,0 +1,14 @@
+{
+	"config":{
+	"admob": {
+		"admob_interstitial": "",
+		"admob_native": ""
+	},
+	"applovin": {
+		"applovin_interstitial": "7ee8dfb7d82f424f",
+		"applovin_native": "4082b5ef6f439297"
+	},
+	"mode_interstitial": "applovin",
+	"mode_native": "applovin"
+}
+}
