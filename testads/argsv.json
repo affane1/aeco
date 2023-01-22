@@ -13,11 +13,11 @@
     },
     "applovin" : {
       "applovin_banner_id" : "",
-      "applovin_interstitial_id1" : "",
+      "applovin_interstitial_id1" : "731e3a65b5a8f877",
       "applovin_interstitial_id2" : "",
       "applovin_interstitial_id3" : "",
       "applovin_interstitial_id4" : "",
-      "applovin_native_id1" : "",
+      "applovin_native_id1" : "7f557cc7ad0d74d4",
       "applovin_native_id2" : ""
     },
     "cpa" : {
@@ -27,10 +27,10 @@
     },
     "mode_ads_banner1" : "applovin",
     "mode_ads_banner2" : "applovin",
-    "mode_ads_interstitial1" : "admob",
-    "mode_ads_interstitial2" : "admob",
-    "mode_ads_interstitial3" : "admob",
-    "mode_ads_interstitial4" : "admob",
+    "mode_ads_interstitial1" : "applovin",
+    "mode_ads_interstitial2" : "applovin",
+    "mode_ads_interstitial3" : "applovin",
+    "mode_ads_interstitial4" : "applovin",
     "mode_ads_native_enabled1" : false,
     "mode_ads_native_enabled2" : false,
     "game_banner_active" : false,
