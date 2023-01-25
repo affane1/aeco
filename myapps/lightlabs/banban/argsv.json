@@ -12,7 +12,7 @@
     },
     "applovin" : {
       "applovin_banner_id" : "",
-      "applovin_interstitial_id1" : "87046873b6f5bb74",
+      "applovin_interstitial_id1" : "f7dd92f57833968b",
       "applovin_interstitial_id2" : "",
       "applovin_interstitial_id3" : "",
       "applovin_interstitial_id4" : "",
@@ -21,7 +21,7 @@
     },
     "cpa" : {
       "active" : false,
-      "banner_img_url" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+      "banner_img_url" : "",
       "banner_url_redirect" : "test URL"
     },
     "mode_ads_banner1" : "applovin",
