@@ -1,0 +1,48 @@
+{
+  "config" : {
+    "admob" : {
+      "admob_banner_id" : "",
+      "admob_game_banner_id" : "",
+      "admob_interstitial_id1" : "",
+      "admob_interstitial_id2" : "",
+      "admob_interstitial_id3" : "",
+      "admob_interstitial_id4" : "",
+      "admob_native_id1" : "",
+      "admob_native_id2" : ""
+    },
+    "applovin" : {
+      "applovin_banner_id" : "",
+      "applovin_interstitial_id1" : "",
+      "applovin_interstitial_id2" : "",
+      "applovin_interstitial_id3" : "",
+      "applovin_interstitial_id4" : "",
+      "applovin_native_id1" : "",
+      "applovin_native_id2" : ""
+    },
+    "cpa" : {
+      "active" : false,
+      "banner_img_url" : "",
+      "banner_url_redirect" : ""
+    },
+    "mode_ads_banner1" : "applovin",
+    "mode_ads_banner2" : "applovin",
+    "mode_ads_interstitial1" : "applovin",
+    "mode_ads_interstitial2" : "applovin",
+    "mode_ads_interstitial3" : "applovin",
+    "mode_ads_interstitial4" : "applovin",
+    "mode_ads_native_enabled1" : true,
+    "mode_ads_native_enabled2" : true,
+    "game_banner_active" : false,
+    "update" : {
+      "update_state" : false,
+      "update_closeable" : false,
+      "update_title" : "New version available",
+      "update_msg" : "Please update the app to benefit from all the new features.",
+      "update_action" : "https://www.google.fr/"
+    },
+    "app" : {
+      "privacy_link" : "https://sites.google.com/view/light-labs/",
+      "CPR_Legal" : false
+    }
+  }
+}
