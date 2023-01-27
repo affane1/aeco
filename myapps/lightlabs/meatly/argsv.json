@@ -12,12 +12,12 @@
     },
     "applovin" : {
       "applovin_banner_id" : "",
-      "applovin_interstitial_id1" : "",
+      "applovin_interstitial_id1" : "45b5187f1bddfc05",
       "applovin_interstitial_id2" : "",
       "applovin_interstitial_id3" : "",
-      "applovin_interstitial_id4" : "",
-      "applovin_native_id1" : "",
-      "applovin_native_id2" : ""
+      "applovin_interstitial_id4" : "45b5187f1bddfc05",
+      "applovin_native_id1" : "4833ffa975338fe3",
+      "applovin_native_id2" : "4833ffa975338fe3"
     },
     "cpa" : {
       "active" : false,
