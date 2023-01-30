@@ -2,7 +2,6 @@
   "config" : {
     "admob" : {
       "admob_banner_id" : "",
-      "admob_game_banner_id" : "",
       "admob_interstitial_id1" : "",
       "admob_interstitial_id2" : "",
       "admob_interstitial_id3" : "",
@@ -32,7 +31,6 @@
     "mode_ads_interstitial4" : "applovin",
     "mode_ads_native_enabled1" : true,
     "mode_ads_native_enabled2" : true,
-    "game_banner_active" : false,
     "update" : {
       "update_state" : false,
       "update_closeable" : false,
