@@ -9,10 +9,10 @@
       },
       "applovin":{
          "applovin_interstitial_id1":"b2ee7baa6929f81d",
-         "applovin_interstitial_id2":"b2ee7baa6929f81d",
+         "applovin_interstitial_id2":"",
          "applovin_native_id1":"6cdbb97a3f931183",
          "applovin_native_id2":"6cdbb97a3f931183",
-         "applovin_native_id3":"6cdbb97a3f931183"
+         "applovin_native_id3":""
       },
       "mode_ads_interstitial1":"admob",
       "mode_ads_interstitial2":"applovin",
