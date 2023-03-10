@@ -22,6 +22,9 @@
       "mode_ads_native_enabled1":true,
       "mode_ads_native_enabled2":true,
       "mode_ads_native_enabled3":true,
+	  "admobnativesmallmedium11":"small",
+	  "admobnativesmallmedium12":"small",
+	  "admobnativesmallmedium13":"medium",
       "app":{
          "tos_link":"",
          "privacy_link":""
