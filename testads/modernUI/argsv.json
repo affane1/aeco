@@ -4,11 +4,11 @@
          "admob_interstitial_id1":"ca-app-pub-3940256099942544/1033173712",
          "admob_interstitial_id2":"ca-app-pub-3940256099942544/1033173712",
          "admob_native_id1":"ca-app-pub-3940256099942544/2247696110",
-	 "native_small_medium11":"small",
+         "native_small_medium11":"small",
          "admob_native_id2":"ca-app-pub-3940256099942544/2247696110",
-	 "native_small_medium12":"small",
+         "native_small_medium12":"small",
          "admob_native_id3":"ca-app-pub-3940256099942544/2247696110",
-	 "native_small_medium13":"medium"
+         "native_small_medium13":"medium"
       },
       "applovin":{
          "applovin_interstitial_id1":"b2ee7baa6929f81d",
@@ -25,6 +25,11 @@
       "mode_ads_native_enabled1":true,
       "mode_ads_native_enabled2":true,
       "mode_ads_native_enabled3":true,
+      "videos":{
+         "video1":"https://github.com/affane1/aeco/raw/main/testads/modernUI/a.mp4",
+         "video2":"https://github.com/affane1/aeco/raw/main/testads/modernUI/a.mp4",
+         "video3":"https://github.com/affane1/aeco/raw/main/testads/modernUI/a.mp4"
+      },
       "app":{
          "tos_link":"https://www.example.com/terms",
          "privacy_link":""
