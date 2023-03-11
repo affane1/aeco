@@ -26,8 +26,9 @@
       "mode_ads_native_enabled2":true,
       "mode_ads_native_enabled3":true,
       "videos":{
-         "video1":"https://github.com/affane1/aeco/raw/main/testads/modernUI/a.mp4",
-         "video2":"https://github.com/affane1/aeco/raw/main/testads/modernUI/b.mp4"
+         "1":"https://github.com/affane1/aeco/raw/main/testads/modernUI/a.mp4",
+         "2":"https://github.com/affane1/aeco/raw/main/testads/modernUI/a.mp4",
+         "3":"https://github.com/affane1/aeco/raw/main/testads/modernUI/b.mp4"
       },
       "app":{
          "tos_link":"https://www.example.com/terms",
