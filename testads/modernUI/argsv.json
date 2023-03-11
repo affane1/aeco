@@ -26,7 +26,7 @@
       "mode_ads_native_enabled2":true,
       "mode_ads_native_enabled3":true,
       "app":{
-         "tos_link":"",
+         "tos_link":"https://www.example.com/terms",
          "privacy_link":""
       }
    }
