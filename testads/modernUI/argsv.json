@@ -24,7 +24,7 @@
       "mode_ads_native1":"admob",
       "mode_ads_native2":"applovin",
       "mode_ads_native3":"admob",
-      "mode_ads_rewarded":"admob",
+      "mode_ads_rewarded":"applovin",
       "mode_ads_native_enabled1":true,
       "mode_ads_native_enabled2":true,
       "mode_ads_native_enabled3":true,
