@@ -36,7 +36,7 @@
 			"privacy_link": ""
 		},
 		"update": {
-			"isEnabled": true,
+			"isEnabled": false,
 			"isCloseable": false,
 			"action": "https://www.example.com"
 		}
