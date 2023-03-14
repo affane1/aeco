@@ -12,7 +12,7 @@
 			"admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917"
 		},
 		"applovin": {
-			"keywords": "keyword1, keyword2, keyword3",
+			"keywords": "",
 			"applovin_interstitial_id1": "64da911e7cf008fe",
 			"applovin_interstitial_id2": "64da911e7cf008fe",
 			"applovin_native_id1": "",
