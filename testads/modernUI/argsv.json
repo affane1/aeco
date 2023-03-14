@@ -13,12 +13,12 @@
 		},
 		"applovin": {
 			"keywords": "keyword1, keyword2, keyword3",
-			"applovin_interstitial_id1": "",
-			"applovin_interstitial_id2": "",
+			"applovin_interstitial_id1": "64da911e7cf008fe",
+			"applovin_interstitial_id2": "64da911e7cf008fe",
 			"applovin_native_id1": "",
 			"applovin_native_id2": "",
-			"applovin_native_id3": "",
-			"applovin_rewarded_id": ""
+			"applovin_native_id3": "91fdaf861b555d20",
+			"applovin_rewarded_id": "de05fdb6769b13ea"
 		},
 		"mode_ads_interstitial1": "applovin",
 		"mode_ads_interstitial2": "applovin",
