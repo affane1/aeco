@@ -1,0 +1,45 @@
+{
+	"config": {
+		"admob": {
+			"admob_interstitial_id1": "",
+			"admob_interstitial_id2": "",
+			"admob_native_id1": "",
+			"native_small_medium11": "small",
+			"admob_native_id2": "",
+			"native_small_medium12": "small",
+			"admob_native_id3": "",
+			"native_small_medium13": "medium",
+			"admob_rewarded_id": ""
+		},
+		"applovin": {
+			"keywords": "",
+			"applovin_interstitial_id1": "",
+			"applovin_interstitial_id2": "",
+			"applovin_native_id1": "",
+			"applovin_native_id2": "",
+			"applovin_native_id3": "",
+			"applovin_rewarded_id": ""
+		},
+		"mode_ads_interstitial1": "applovin",
+		"mode_ads_interstitial2": "applovin",
+		"mode_ads_native1": "applovin",
+		"mode_ads_native2": "applovin",
+		"mode_ads_native3": "applovin",
+		"mode_ads_rewarded": "applovin",
+		"mode_ads_native_enabled1": true,
+		"mode_ads_native_enabled2": true,
+		"mode_ads_native_enabled3": true,
+		"videos": {
+			
+		},
+		"app": {
+			"tos_link": "",
+			"privacy_link": "https://sites.google.com/view/anto-apps-privacy-policy"
+		},
+		"update": {
+			"isEnabled": false,
+			"isCloseable": false,
+			"action": ""
+		}
+	}
+}
