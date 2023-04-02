@@ -1,0 +1,45 @@
+{
+	"config": {
+		"admob": {
+			"admob_interstitial_id1": "ca-app-pub-3940256099942544/1033173712",
+			"admob_interstitial_id2": "ca-app-pub-3940256099942544/1033173712",
+			"admob_native_id1": "ca-app-pub-3940256099942544/2247696110",
+			"native_small_medium11": "small",
+			"admob_native_id2": "ca-app-pub-3940256099942544/2247696110",
+			"native_small_medium12": "small",
+			"admob_native_id3": "ca-app-pub-3940256099942544/2247696110",
+			"native_small_medium13": "medium",
+			"admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917"
+		},
+		"applovin": {
+			"keywords": "",
+			"applovin_interstitial_id1": "b2ee7baa6929f81d",
+			"applovin_interstitial_id2": "b2ee7baa6929f81d",
+			"applovin_native_id1": "6cdbb97a3f931183",
+			"applovin_native_id2": "6cdbb97a3f931183",
+			"applovin_native_id3": "6cdbb97a3f931183",
+			"applovin_rewarded_id": "2d46faee3df3d33a"
+		},
+		"mode_ads_interstitial1": "applovin",
+		"mode_ads_interstitial2": "applovin",
+		"mode_ads_native1": "applovin",
+		"mode_ads_native2": "applovin",
+		"mode_ads_native3": "applovin",
+		"mode_ads_rewarded": "applovin",
+		"mode_ads_native_enabled1": true,
+		"mode_ads_native_enabled2": true,
+		"mode_ads_native_enabled3": true,
+		"videos": {
+			
+		},
+		"app": {
+			"tos_link": "",
+			"privacy_link": ""
+		},
+		"update": {
+			"isEnabled": false,
+			"isCloseable": false,
+			"action": "https://www.example.com"
+		}
+	}
+}
