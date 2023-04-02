@@ -29,12 +29,10 @@
 		"mode_ads_native_enabled1": true,
 		"mode_ads_native_enabled2": true,
 		"mode_ads_native_enabled3": true,
+		"privacy_link": "https://sites.google.com/view/anto-apps-privacy-policy",
+		"tos_link": "",
 		"videos": {
 			
-		},
-		"app": {
-			"tos_link": "",
-			"privacy_link": "https://sites.google.com/view/anto-apps-privacy-policy"
 		},
 		"update": {
 			"isEnabled": false,
@@ -43,3 +41,4 @@
 		}
 	}
 }
+
