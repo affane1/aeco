@@ -1,7 +1,7 @@
 {
 	"config": {
 		"admob": {
-			"admob_interstitial_id1": "",
+			"admob_interstitial_id1": "a",
 			"admob_interstitial_id2": "",
 			"admob_native_id1": "",
 			"native_small_medium11": "small",
